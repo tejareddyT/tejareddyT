@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tejareddyT
-- 👀 I’m interested in learn Coding 
+- 👀 I’m interested in learning Coding 
 - 🌱 I’m currently learning Java, go, python
 - 💞️ I’m looking to collaborate on startup projects 
 
